@@ -128,5 +128,5 @@ a   -> <a href=""></a>
 
 ## License
 
-[HTML Snippets](https://marketplace.visualstudio.com/items?itemName=Wscats.html) is released under the [MIT](http://opensource.org/licenses/MIT).
+[HTML Snippets](https://marketplace.visualstudio.com/manage/publishers/wscats/extensions/html-snippets/hub?_a=acquisition) is released under the [MIT](http://opensource.org/licenses/MIT).
 
