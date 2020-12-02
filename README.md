@@ -1,6 +1,6 @@
 # Using
 
-Just enter the html tag name, and the complete code of the tag will be automatically provided.
+Just enter the tag name of `html`, and the complete code snippet of the tag will be automatically completed.
 
 ```html
 div -> <div></div>

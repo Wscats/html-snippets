@@ -2,7 +2,7 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "wscats",
 	"icon": "images/icon.png",
 	"engines": {
@@ -19,7 +19,7 @@
 		"url": "https://github.com/Wscats"
 	},
 	"galleryBanner": {
-		"color": "#1E81C1",
+		"color": "#58bc58",
 		"theme": "light"
 	},
 	"categories": [
