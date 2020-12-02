@@ -2,7 +2,7 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "wscats",
 	"icon": "images/icon.png",
 	"engines": {
