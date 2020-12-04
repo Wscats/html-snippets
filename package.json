@@ -1,16 +1,22 @@
 {
 	"name": "html-snippets",
-	"displayName": "HTML Snippets",
-	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "1.0.3",
+	"displayName": "HTML/CSS/Javascript Snippets",
+	"description": "HTML/CSS/Javascript/Jade/Pug/Less/Sass/Stylus/ES6 Snippets Support",
+	"version": "1.0.5",
 	"publisher": "wscats",
-	"icon": "images/icon.png",
+	"icon": "images/logo.png",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
 	"keywords": [
 		"html",
 		"html5",
+		"css",
+		"css3",
+		"javascript",
+		"typescript",
+		"ES6",
+		"ES7",
 		"snippets"
 	],
 	"author": {
@@ -33,7 +39,43 @@
 		"snippets": [
 			{
 				"language": "html",
-				"path": "./snippets/snippets.json"
+				"path": "./snippets/html.json"
+			},
+			{
+				"language": "jade",
+				"path": "./snippets/html.json"
+			},
+			{
+				"language": "pug",
+				"path": "./snippets/html.json"
+			},
+			{
+				"language": "css",
+				"path": "./snippets/css.json"
+			},
+			{
+				"language": "scss",
+				"path": "./snippets/css.json"
+			},
+			{
+				"language": "sass",
+				"path": "./snippets/css.json"
+			},
+			{
+				"language": "less",
+				"path": "./snippets/css.json"
+			},
+			{
+				"language": "stylus",
+				"path": "./snippets/css.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/javascript.json"
 			}
 		]
 	}
