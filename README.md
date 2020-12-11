@@ -348,4 +348,4 @@ bg  → background: #fff;
 
 ## License
 
-[HTML/CSS/Javascript Snippets](https://marketplace.visualstudio.com/manage/publishers/wscats/extensions/html-snippets/hub?_a=acquisition) is released under the MIT.
+[HTML/CSS/JavaScript Snippets](https://github.com/Wscats/html-snippets) is released under the MIT.
