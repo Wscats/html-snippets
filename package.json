@@ -6,7 +6,8 @@
   "publisher": "wscats",
   "icon": "images/logo.png",
   "engines": {
-    "vscode": "^1.40.0"
+    "vscode": "^1.40.0",
+    "node": ">=18.0.0"
   },
   "keywords": [
     "html",
@@ -36,7 +37,10 @@
     "build": "vsce package",
     "lint": "eslint src --ext .ts,.tsx,.js,.jsx --fix",
     "test": "jest --coverage",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "lint:check": "eslint . --ext .ts,.tsx,.js,.jsx",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "contributes": {
     "snippets": [
@@ -81,5 +85,14 @@
         "path": "./snippets/javascript.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wscats/html-snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wscats/html-snippets/issues"
+  },
+  "homepage": "https://github.com/wscats/html-snippets#readme"
 }
